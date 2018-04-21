@@ -1,2 +1,3 @@
-def display_rainbow(name)
+def display_rainbow(color)
+  
   
